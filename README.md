@@ -6,9 +6,9 @@
 ## Documentation
 Converts EEG `bdf` files to MNE raw data, using `mne.io.read_raw_edf` function from MNE-python.
 
-1) Input file is:
+1) Input:
     * `eeg/bdf` eeg data file
-2) Ouput files are:
+2) Ouput:
     * `meeg/mne/raw` meg raw.fif data file
 
 ## Authors
